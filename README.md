@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ashusainiofficial
-- 👀 I’m interested in ...html css and java script
-- 🌱 I’m currently learning ... html and css
-- 💞️ I’m looking to collaborate on ...javaScript project 
-- 📫 How to reach me ... email me at- sainiaahu31@gmail.com
+# 🎯 Ashu Saini | Cybersecurity Operations & Automation Engineer
 
-<!---
-ashusainioffcial/ashusainioffcial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dedicated Security Operations Center (SOC) Analyst specializing in log ingestion architecture, regular expression field parsing, and active programmatic threat containment. 
+
+## 🛡️ Core Security Architecture Hub
+All production-tier scripts, regex filters, and incident response playbooks have been consolidated into a centralized operational framework:
+👉 **[Security-Operations-Automation-Lab](https://github.com)**
+
+### 📊 Operational Capabilities Vault
+- **Ingestion Engineering:** Scripted Python intelligence ingestion utilizing User-Agent browser spoofing to bypass edge WAF drops.
+- **Threat Hunting Analysis:** Authored custom Splunk SPL time-chart analytics to detect deterministic 10:00 PM botnet execution spikes.
+- **Active Incident Defense:** Developed automated local firewall blocker apps using in-memory tracking loops to drop malicious traffic patterns.
