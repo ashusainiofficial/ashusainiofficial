@@ -4,7 +4,7 @@ Dedicated Security Operations Center (SOC) Analyst specializing in log ingestion
 
 ## 🛡️ Core Security Architecture Hub
 All production-tier scripts, regex filters, and incident response playbooks have been consolidated into a centralized operational framework:
-👉 **[Security-Operations-Automation-Lab](https://github.com)**
+👉 **[Security-Operations-Automation-Lab](https://github.com/ashusainiofficial/Security-Operations-Automation-Lab)**
 
 ### 📊 Operational Capabilities Vault
 - **Ingestion Engineering:** Scripted Python intelligence ingestion utilizing User-Agent browser spoofing to bypass edge WAF drops.
